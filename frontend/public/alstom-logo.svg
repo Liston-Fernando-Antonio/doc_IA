@@ -1,0 +1,12 @@
+<svg width="220" height="60" viewBox="0 0 220 60" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ALSTOM logo">
+  <rect width="220" height="60" rx="12" fill="#0C2340"/>
+  <path d="M16 44L32 16L48 44H40L35.5 35H28.5L24 44H16ZM30.5 27L28 33H36L33.5 27H30.5Z" fill="#E94E1B"/>
+  <path d="M58 16H72V44H58V16Z" fill="#F5F7FA"/>
+  <path d="M80 16H94V44H80V16Z" fill="#F5F7FA"/>
+  <path d="M102 16H116V44H102V16Z" fill="#F5F7FA"/>
+  <path d="M124 16H138V44H124V16Z" fill="#F5F7FA"/>
+  <path d="M146 16H160V44H146V16Z" fill="#F5F7FA"/>
+  <path d="M168 16H182V44H168V16Z" fill="#F5F7FA"/>
+  <path d="M190 16H204V44H190V16Z" fill="#F5F7FA"/>
+  <text x="110" y="52" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3" fill="#F5F7FA">ALSTOM</text>
+</svg>
